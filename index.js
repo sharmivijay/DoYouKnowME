@@ -22,7 +22,6 @@ var questionList =[
 ]
 
 
-
 function checkAnswer(question, answer)
 {
   var userResponse = readLineSync.question(question);
